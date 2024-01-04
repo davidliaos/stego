@@ -1,0 +1,36 @@
+Average of SSIM for res1: 94.92%
+Average of SSIM for res2: 99.83%
+Average of SSIM for res3: 99.46%
+Average of SSIM for res4: 98.31%
+Average of SSIM for res5: 90.52%
+
+SSIM score res1_encrypted_1.png: 93.61%
+SSIM score res1_encrypted_2.png: 94.52%
+SSIM score res1_encrypted_3.png: 95.93%
+SSIM score res1_encrypted_4.png: 95.63%
+
+SSIM score res2_encrypted_1.png: 99.80%
+SSIM score res2_encrypted_2.png: 99.82%
+SSIM score res2_encrypted_3.png: 99.86%
+SSIM score res2_encrypted_4.png: 99.84%
+
+SSIM score res3_encrypted_1.png: 99.35%
+SSIM score res3_encrypted_2.png: 99.43%
+SSIM score res3_encrypted_3.png: 99.54%
+SSIM score res3_encrypted_4.png: 99.51%
+
+SSIM score res4_encrypted_1.png: 97.93%
+SSIM score res4_encrypted_2.png: 98.20%
+SSIM score res4_encrypted_3.png: 98.60%
+SSIM score res4_encrypted_4.png: 98.50%
+
+SSIM score res5_encrypted_1.png: 90.01%
+SSIM score res5_encrypted_2.png: 90.12%
+SSIM score res5_encrypted_3.png: 90.97%
+SSIM score res5_encrypted_4.png: 90.99%
+
+
+
+
+
+
