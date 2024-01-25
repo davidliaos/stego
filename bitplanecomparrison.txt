@@ -1,0 +1,8 @@
+SSIM score between image1_bitplane1.png and res3_encrypted_1_bitplane1.png: 0.9695
+SSIM score between image1_bitplane2.png and res3_encrypted_1_bitplane2.png: 0.9496
+SSIM score between image1_bitplane3.png and res3_encrypted_1_bitplane3.png: 0.9134
+SSIM score between image1_bitplane4.png and res3_encrypted_1_bitplane4.png: 0.8390
+SSIM score between image1_bitplane5.png and res3_encrypted_1_bitplane5.png: 0.7333
+SSIM score between image1_bitplane6.png and res3_encrypted_1_bitplane6.png: 0.5319
+SSIM score between image1_bitplane7.png and res3_encrypted_1_bitplane7.png: 0.0865
+SSIM score between image1_bitplane8.png and res3_encrypted_1_bitplane8.png: -0.0042
